@@ -1,0 +1,35 @@
+.person{
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  padding: 20px;
+  background-color: white;
+  width: 87%;
+}
+.person:hover{
+  background-color: #333;
+  color: white;
+}
+.frame{
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.App{
+  background-color: dodgerblue;
+}
+pre{
+  font-size: large;
+}
+.giyuu{
+  float: right;
+  width: 20%;
+  height: auto;
+}
+.like{
+  height: 40px;
+  width: 40px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
