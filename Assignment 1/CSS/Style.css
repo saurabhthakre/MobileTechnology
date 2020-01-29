@@ -1,0 +1,268 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.main {
+  float: left;
+  color: tomato;
+  text-align: center;
+  padding: 30px 16px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.vertical {
+  float: left;
+  padding-top: 30px;
+  font-size: 13px;
+  font-weight: bold;
+  color: white;
+}
+
+.main:hover {
+  background-color: tomato;
+  color: white;
+}
+
+.lpad {
+  margin-left: 150px;
+}
+
+.icon {
+  height: 25px;
+  width: 25px;
+  padding: 8px;
+  transform: rotate(-45deg);
+}
+
+.rotate:hover {
+  background-color: tomato;
+}
+
+.rotate {
+  transform: rotate(45deg);
+  border: 3px solid tomato;
+  height: 40px;
+  width: 40px;
+  float: left;
+  margin-right: 30px;
+  margin-top: 14px;
+}
+
+.icons {
+  float: right;
+  margin-right: 150px;
+}
+
+.topnav1 {
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.brand {
+  color: Black;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.subbrand {
+  font-size: 10px;
+  padding-top: 30px;
+  margin-left: -85px;
+  color: gray;
+}
+
+.main2 {
+  float: left;
+  color: black;
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 25px;
+}
+
+.icon1 {
+  height: 35px;
+  width: 35px;
+  padding-top: 15px;
+  padding-right: 10px;
+  padding-left: 30px;
+}
+
+.floatr {
+  float: left;
+}
+
+.floatl {
+  float: right;
+}
+
+.brandgroup {
+  float: left;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+  padding-top: 5px;
+  float: left;
+}
+
+.topnav2 {
+  overflow: hidden;
+  background-color: #e9e9e9;
+  margin-top: 7px;
+}
+
+.topnav2 div {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-bottom: -5x;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.topnav2 div:hover {
+  background-color: #ddd;
+  color: #2196f3;
+}
+
+.topnav2 .search-container {
+  float: right;
+  margin-top: -8px;
+  padding-bottom: 6px;
+  margin-right: 120px;
+}
+
+.topnav2 input[type="text"] {
+  padding: 6px;
+  font-size: 17px;
+  border: none;
+}
+
+.topnav2 .search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.topnav2 .search-container button:hover {
+  background: #ccc;
+}
+
+.wall {
+  width: 100%;
+  height: 360px;
+}
+
+.head {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.horizontal {
+  width: 100px;
+  margin-top: 4px;
+  border: 1px solid black;
+}
+
+.subhead {
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  color: gray;
+  margin-top: 10px;
+}
+
+.heavy {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.light {
+  font-size: 11px;
+  font-weight: bold;
+  color: gray;
+}
+
+.commonbox {
+  margin-top: 20px;
+  border: 3px solid dodgerblue;
+  width: 320px;
+  padding-top: 5px;
+  padding-left: 40px;
+  padding-bottom: 15px;
+  float: left;
+}
+
+.box1 {
+  margin-left: 150px;
+}
+
+.box2 {
+  margin-left: 40px;
+}
+
+.box3 {
+  margin-left: 40px;
+}
+
+.polygon1 {
+  position: absolute;
+  left: 112px;
+  margin-top: 37px;
+}
+
+.polygon2 {
+  position: absolute;
+  left: 517.5px;
+  margin-top: 37px;
+}
+
+.polygon3 {
+  position: absolute;
+  left: 923px;
+  margin-top: 37px;
+}
+
+.commonicon {
+  width: 30px;
+  position: absolute;
+}
+
+.iconx {
+  height: 30px;
+  left: 135px;
+  margin-top: 62px;
+}
+
+.icony {
+  height: 30px;
+  left: 540.5px;
+  margin-top: 62px;
+}
+
+.iconz {
+  height: 20px;
+  left: 947px;
+  margin-top: 67px;
+}

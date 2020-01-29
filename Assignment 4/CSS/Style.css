@@ -1,0 +1,89 @@
+body{
+    background-image: url(../Assets/background.jpg);
+    /* background-image: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)),url(/assets/back.jpg); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover contain;
+    overflow: auto;
+    font-family: Candara;
+}
+
+.Heading{
+    text-align: center;
+    width: fit-content;
+    padding: 30px;
+    color: white;
+    font-size: larger;
+}
+
+.searchsubmit{
+    background-color:   rgba(30, 30, 30, 0.3);
+    padding: 30px;
+    border-radius: 10px;
+    width: fit-content;
+}
+
+#searchbar{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px solid white;
+    font-size: large;
+    padding: 5px;
+    color: white;
+    background-color: #BB86FC;
+}
+
+.submit{
+    margin-left: 10px;
+    width: 200px;
+    height: 45px;
+    border-radius: 5px;
+    background-color: #feb47b;
+    border: 2px solid white;
+    color:white;
+    font-size: large;
+    padding: 10px;
+}
+
+.output{
+    background-color:   rgba(30, 30, 30, 0.3);
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 170px;
+    width: 200px;
+    height: 200px;
+}
+
+.container{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+#location{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 5px;
+}
+
+#temp{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 5px;
+}
+
+#image{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+#description{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 5px;
+}
