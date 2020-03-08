@@ -1,3 +1,3 @@
 ## Preview
 
-<img src="assignment2.png" />
+<img src="assignment2.png" alt="animated" />
