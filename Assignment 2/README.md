@@ -1,3 +1,3 @@
 ## Preview
 
-<img src="assignment2.png" alt="animated" />
+![](https://github.com/SaurabhThakre/MobileTechnology/blob/master/Assignment%202/assignment2.PNG)
